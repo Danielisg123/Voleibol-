@@ -1,0 +1,28 @@
+* {
+margin:0;
+padding:0;
+  box-sizing:borde-box;
+}
+
+nav{
+  background-color:#1a1a1a;
+  height: 60px;
+  display:flex;
+  align-itms: center;
+  justify-content:space-between;
+  padding:0 sopx;
+}
+
+nau ul{
+  display:flex;
+  list-style:none;
+}
+
+nau ul li{
+  color:#ffffff;
+  padding:10px 20px;
+  margin:0 5px;
+  cursor: pointer;
+  font-size:16 px;
+  
+}
